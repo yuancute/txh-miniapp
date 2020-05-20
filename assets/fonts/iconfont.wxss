@@ -1,0 +1,59 @@
+@font-face {
+  font-family: 'iconfont';  /* project id 955720 */
+  src: url('//at.alicdn.com/t/font_955720_9erk79xrfhh.eot');
+  src: url('//at.alicdn.com/t/font_955720_9erk79xrfhh.eot?#iefix') format('embedded-opentype'),
+  url('//at.alicdn.com/t/font_955720_9erk79xrfhh.woff2') format('woff2'),
+  url('//at.alicdn.com/t/font_955720_9erk79xrfhh.woff') format('woff'),
+  url('//at.alicdn.com/t/font_955720_9erk79xrfhh.ttf') format('truetype'),
+  url('//at.alicdn.com/t/font_955720_9erk79xrfhh.svg#iconfont') format('svg');
+}
+.iconfont{
+    font-family:"iconfont" !important;
+    font-size:16px;font-style:normal;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-stroke-width: 0.2px;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-many-people:before{content: '\e603';}
+.icon-add-people:before{content: '\e600';}
+.icon-bill:before{content: '\e757';}
+.icon-class-manage:before{content: '\e69c'}
+.icon-signname:before{content: '\e617'} /*报名*/
+.icon-vote:before{content: '\e6b8'} /*投票*/
+.icon-notice::before{content:'\e60f'}/*公告*/
+.icon-delete-pic::before{content:'\e616'}
+.icon-fee::before{content:'\e7cb'}/*班费*/
+.icon-homework::before{content:'\e668'}/*作业*/
+.icon-picker-right:before{content: '\e60d'}
+
+.icon-subject:before{content: '\e607'}
+.icon-examine:before{content: '\e62b'}
+.icon-arrow:before{content: '\e636'}
+.icon-setting:before{content: '\e634'}
+.icon-class-select:before{content: '\e662'}
+.icon-score:before{content: '\e866'}
+.icon-time:before{content: '\e604'}
+.icon-title:before{content: '\e626'}
+.icon-add:before{content: '\e637'}
+.icon-reduce:before{content: '\e638'}
+.icon-edit:before{content: '\e627'}
+.icon-finish:before{content: '\e667'}
+.icon-add-pic:before{content: '\e653'}
+.icon-comment:before{content: '\e618'}
+.icon-praise:before{content: '\e63b'}
+.icon-praised:before{content: '\e64f'}
+.icon-update:before{content: '\e635'}
+.icon-list-comment:before{content: '\e61a'}
+.icon-heart:before{content: '\e613'}
+.icon-heart-selected:before{content: '\e64e'}
+.icon-read:before{content: '\e650'}
+.icon-function:before{content: '\e61a'}
+.icon-new:before{content: '\e838'}
+.icon-phone:before{content: '\e609'}
+.icon-service:before{content: '\e606'}
+.icon-score-index:before{content: '\e61c'}
+.icon-leave-word::before{content: '\e63a'}
+.icon-has-leave-word::before{content: '\e63a'}
+.icon-not-public:before{content: '\e6b3'}
+.icon-is-public:before{content: '\e867'}
